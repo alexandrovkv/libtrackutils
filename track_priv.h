@@ -2,10 +2,6 @@
  *
  * Track utils
  *
- * $Id$
- *
- * $Log:
- *
  */
 
 #ifndef TRACK_PRIV_H_INCLUDED
