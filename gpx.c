@@ -2,14 +2,7 @@
  *
  * Track utils library, GPX parser.
  *
- * $Id$
- *
- * $Log:
- *
  */
-
-char *gpx_c_cvsid =
-    "$Id$";
 
 /**
  * @file gpx.c GPX parser implementation.
