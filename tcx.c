@@ -2,14 +2,7 @@
  *
  * Track utils library, TCX parser.
  *
- * $Id$
- *
- * $Log:
- *
  */
-
-char *tcx_c_cvsid =
-    "$Id$";
 
 /**
  * @file tcx.c TCX parser implementation.
