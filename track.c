@@ -2,14 +2,7 @@
  *
  * Track utils library.
  *
- * $Id$
- *
- * $Log:
- *
  */
-
-char *track_c_cvsid =
-    "$Id$";
 
 /**
  * @file track.c Track utils implementation.
