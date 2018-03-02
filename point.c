@@ -2,14 +2,7 @@
  *
  * Track point.
  *
- * $Id$
- *
- * $Log:
- *
  */
-
-char *point_c_cvsid =
-    "$Id$";
 
 /**
  * @file point.c Track point.
