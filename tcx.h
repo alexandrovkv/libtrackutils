@@ -2,10 +2,6 @@
  *
  * Track utils library, TCX parser.
  *
- * $Id$
- *
- * $Log:
- *
  */
 
 /**
@@ -25,4 +21,3 @@ int trk_parse_tcx( track_t track, xmlDocPtr doc, xmlNodePtr node );
 
 
 #endif
-
