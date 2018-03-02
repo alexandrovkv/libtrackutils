@@ -1,0 +1,16 @@
+
+PACKAGE=libtu
+VERSION=1.0.0
+
+AC_PREREQ(2.59)
+
+AC_INIT([libtu], [1.0.0], [alexandrovkv07@gmail.com])
+AM_INIT_AUTOMAKE($PACKAGE, $VERSION)
+
+AC_PROG_CC
+AC_PROG_LIBTOOL
+
+AC_CONFIG_FILES([Makefile libtu.pc])
+
+AC_OUTPUT
+
