@@ -2,10 +2,6 @@
  *
  * Track utils
  *
- * $Id$
- *
- * $Log:
- *
  */
 
 /**
