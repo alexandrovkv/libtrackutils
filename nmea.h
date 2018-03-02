@@ -2,10 +2,6 @@
  *
  * Track utils library, NMEA parser.
  *
- * $Id$
- *
- * $Log:
- *
  */
 
 /**
