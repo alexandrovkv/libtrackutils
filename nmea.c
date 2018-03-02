@@ -2,14 +2,7 @@
  *
  * Track utils library, NMEA parser.
  *
- * $Id$
- *
- * $Log:
- *
  */
-
-char *nmea_c_cvsid =
-    "$Id$";
 
 /**
  * @file nmea.c NMEA parser implementation.
