@@ -2,14 +2,7 @@
  *
  * libtu test
  *
- * $Id$
- *
- * $Log:
- *
  */
-
-char *tu_test_c_cvsid =
-    "$Id$";
 
 
 #include <stdio.h>
