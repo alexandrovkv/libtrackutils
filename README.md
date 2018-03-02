@@ -1,2 +1,2 @@
 # libtrackutils
-Parse GPS tracks
+Parse GPS tracks (GPX/TCX/NMEA)
