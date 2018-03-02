@@ -2,9 +2,6 @@
  *
  * Track utils library, GPX parser.
  *
- * $Id$
- *
- * $Log:
  *
  */
 
